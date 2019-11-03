@@ -1,0 +1,31 @@
+git init             / first we initinize your folder/
+git status /chake update etc /
+
+git add -A   /or/  git add filename
+
+
+git status     /for chake status /            
+
+
+git commit -m"if not commit"     /for save your file/
+
+
+git config --global user.email "abc@.com"
+git config --global user.name "xyz"
+
+
+copy repostie link
+
+type  git remote ad origin  https://github.com/Mubashirali786/repo.git
+
+
+git push -u origin 
+
+
+
+
+
+
+
+ 
+
